@@ -49,6 +49,20 @@ MCI diagnosis is calculated as follows (doesn't replace a health professional he
 |>40	|>40	| Morbidly obese!	|Urgent surgery	|
 
 
+##### Executing this script
+
+```shell
+$ swipl -s diet.pl -t start
+
+```
+
+Where start is a function that renders a simple menu on screen.
+##### Preview
+
+![pl](https://github.com/xavrb/prologExamples/blob/master/diet/examples/image_2017-07-26_17-26-29.png)
+![pl](https://github.com/xavrb/prologExamples/blob/master/diet/examples/image_2017-07-26_17-27-27.png)
+
+
 
 
 
