@@ -3,6 +3,15 @@ A personal intro to prolog (examples)
 
 This is a set of pl examples I used on my AI course while at college.
 
+## Prerequisites
+### Install prolog
+
+On Fedora:
+
+```shell
+# dnf install pl
+```
+
 ## Clone
 
 ```shell
